@@ -1,3 +1,32 @@
+body{
+    background-color: black;
+}
+
+.topBar {
+    height: 20px;
+    width:
+}
+.huluLogo {
+    color: white;
+    height: 10px;
+    width: 10px;
+    position: fixed;
+    font-size: 15px;
+    font-family: sans-serif; 
+    margin-top: 0px;
+    margin-left: 5px;
+}
+
+.logIn {
+    color: white;
+    height: 10px;
+    width: 100%;
+    position: fixed;
+    font-size: 10px;
+    font-family: sans-serif; 
+    margin-top: 0px;
+    margin-left: 1400px;
+}
 
 .inOnePlace {
     color: White;
